@@ -1,8 +1,7 @@
 # census-income-
 A census income machine learning project
 
-open `final_census_income_project-checkpoint.ipynb` plz
-
+<font color=red size=5 face=雅黑>**Open `final_census_income_project-checkpoint.ipynb` please.**</font>
 
 for the row data file, I convert it into csv for me easy to read in jupyter notebook
 The csv files(`adults.csv` and `test.csv`)  has been uploaded
